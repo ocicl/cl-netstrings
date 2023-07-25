@@ -1,0 +1,10 @@
+* cl-netstrings
+
+Reading and writing netstrings from/to binary streams in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/RyanHope/cl-netstrings.git   |
+| commit  | f91063a  |
+| systems | cl-netstrings |
+|---------+-------------------------------------------|
+
